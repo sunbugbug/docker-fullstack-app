@@ -28,7 +28,7 @@ deploy:
   app: "docker-fullsatck-app"
   env: "Dockerfullsatckapp-env"
   bucket_name: 	elasticbeanstalk-us-east-1-635450248604
-  bucket_path: "docker-fullstack-app"
+  bucket_path: "docker-fullsatck-app"
   on:
     branch: master
   
